@@ -1,0 +1,6 @@
+para correr el codigo una vez abierto el repo,
+para el ejercicio(1) entra en la carpeta ejercicio1 (cd ejercicio1) 
+y corre esto en la terminal g++ -std=c++17 -o programa main.cpp y despues ./programa 
+
+para el resto de los ejercicios hacer lo mismo, te pones en la carperta ejercicio(n) y corres el comando de ahi arriba. total todos mis main se llaman igual para facilitar esto 
+y al no estar en la misma carpeta no se choca
